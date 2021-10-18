@@ -23,13 +23,13 @@
     "react-icons": "^4.3.1",
     "react-share": "^4.4.0",
     "react-social-icons": "^5.6.1",
-    "sharp": "^0.29.1"
+    "sharp": "^0.29.1",
+    "postcss": "^8.3.9",
+    "tailwindcss": "^2.2.16"
   },
   "devDependencies": {
     "autoprefixer": "^10.3.7",
     "eslint": "^8.0.0",
-    "eslint-config-next": "11.1.2",
-    "postcss": "^8.3.9",
-    "tailwindcss": "^2.2.16"
+    "eslint-config-next": "11.1.2"
   }
 }
